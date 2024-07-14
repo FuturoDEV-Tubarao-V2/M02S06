@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /futurodev
+  port: 8081
+
+logging:
+  level:
+    web: DEBUG
+
+developer:
+  name: Ronyeri Marinho
+  linkedin: https://linkedin.com/ronyeri-marinho
